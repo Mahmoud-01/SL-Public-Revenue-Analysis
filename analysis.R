@@ -1,4 +1,4 @@
-# Install necessary packages if you haven't already
+# Install necessary packages.
 install.packages(c("tidyverse", "lubridate", "forecast"))
 
 
