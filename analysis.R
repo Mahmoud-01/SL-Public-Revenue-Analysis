@@ -17,7 +17,8 @@ csv_file_path <- "C:\\Users\\User\\Desktop\\SL Public Revenue Analysis - R\\REVS
 revenue_data <- read.csv(csv_file_path)
 
 # Print the first few rows of the data to ensure it is loaded correctly
-print(head(revenue_data))
+print(head(revenue_data)) 
+
 
 # Check the structure of the data
 print(str(revenue_data))
